@@ -1,0 +1,9 @@
+1.Tomato
+2.Cabbage
+3.Cucumber
+4.Mustard
+5.Ketchup
+6.Onion
+7.Lettuce
+8.Bread/Bun
+9.Mayonaise
